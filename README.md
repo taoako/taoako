@@ -71,11 +71,6 @@ const johnRacil = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoako&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
 </div>
 
-<!-- CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taoako&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="98%" alt="Contribution Graph" />
-</p>
-
 <!-- FOOTER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer" width="100%" alt="Footer Banner" />
